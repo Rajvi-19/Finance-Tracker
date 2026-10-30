@@ -1,4 +1,10 @@
-# React + Vite
+# Finance Tracker Frontend
+
+See the [project README](../README.md) for implemented features, full-stack setup, environment variables, commands, and deployment limitations.
+
+Run `npm run dev` from the project root to start both services. From this directory, `npm run dev` starts only the Vite frontend; the API must also run on port 3000. `npm run build` creates `dist/`, and `npm run lint` runs Oxlint.
+
+## Original template notes
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
